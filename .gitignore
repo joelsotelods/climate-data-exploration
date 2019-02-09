@@ -16,3 +16,19 @@ Thumbs.db
 #FolderName/
 resources/
 Images/
+
+
+# ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
+*checkpoint.ipynb
+
+#for the pycache
+*.pyc
+*.pyo
+
+
+#only for the Pyber project
+
+*.pdf
